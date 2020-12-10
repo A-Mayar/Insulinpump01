@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 insulin_level = 10
 insulinpump = 5
 counter = 4
